@@ -1,0 +1,38 @@
+/* RESET */
+* {
+    margin:0;
+    padding:0;
+}
+
+header {
+    background-color: red;
+    min-height: 80px;
+}
+
+#container {
+    width: 80%;
+    margin: auto;
+}
+
+#main {
+    background-color: yellow;
+    min-height: 300px;
+}
+
+footer {
+    background-color: green;
+    min-height: 50px;
+}
+
+a {
+    color:red;
+}
+
+a:hover {
+    font-size: 20px;
+    color: green;
+}
+
+a:visited {
+    color: black;
+}

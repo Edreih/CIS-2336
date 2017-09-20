@@ -1,0 +1,60 @@
+/* RESET */
+* {
+    margin:0;
+    padding:0;
+}
+
+header {
+    background-color: skyblue;
+    min-height: 80px;
+}
+
+#container {
+    width: 90%;
+    margin: 10px auto;
+}
+
+#main {
+    background-color: white;
+    min-height: 300px;
+    overflow: hidden;
+}
+
+#sidebar1 {
+    background-color: #999;
+    min-height: 350px;
+    float: left;
+    width: 200px;
+}
+
+#sidebar2 {
+    background-color: #985;
+    min-height: 350px;
+    float: right;
+    width: 200px;
+}
+
+#column-one {
+    background-color: aquamarine;
+    min-height:350px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+footer {
+    background-color: #090;
+    min-height: 60px;
+}
+
+a {
+    color:red;
+}
+
+a:hover {
+    font-size: 20px;
+    color: green;
+}
+
+a:visited {
+    color: black;
+}
