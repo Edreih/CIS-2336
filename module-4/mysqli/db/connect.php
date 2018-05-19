@@ -1,5 +1,5 @@
 <?php
-$db = new mysqli('localhost', 'ealdana1_edreih', 'speedy13', 'ealdana1_app');
+$db = new mysqli('localhost', 'DB_USER', 'PASSWORD', 'DB_NAME');
 
 if($db->connect_errno) {
     echo $db->connect_error;
