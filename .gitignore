@@ -1,4 +1,4 @@
-module-4/exam3
-uploads/
-upload_tmp_dir/
-docs/
+module-4/exam3/*
+uploads/*
+upload_tmp_dir/*
+docs/*
