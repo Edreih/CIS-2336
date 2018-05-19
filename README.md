@@ -5,6 +5,6 @@ This course provided an introduction to client and server side technologies. Cli
 
 This website is a showcase of what I've learned and displays my top assignments for each class module. 
 
-[Working Demo](http://ealdana17s.heyuhnem.com/)
+[Working Demo](https://ealdana.com/projects/cis2336/)
 
 **Technologies Used:** HTML5, CSS, PHP, MySQL, Javascript
