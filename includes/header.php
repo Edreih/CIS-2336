@@ -11,11 +11,11 @@
 							<nav id="nav">
 								<ul>
 									<li class="current_page_item"><a href="/index.php">Home</a></li>
-									<li><a href="/module-1/index.php">Module 1</a></li>
-									<li><a href="/module-2/index.php">Module 2</a></li>
-									<li><a href="/module-3/index.php">Module 3</a></li>
-									<li><a href="/module-4/index.php">Module 4</a></li>
-                                    <li><a href="/module-5/index.php">Module 5</a></li>
+									<li><a href="module-1/index.php">Module 1</a></li>
+									<li><a href="module-2/index.php">Module 2</a></li>
+									<li><a href="module-3/index.php">Module 3</a></li>
+									<li><a href="module-4/index.php">Module 4</a></li>
+                                    <li><a href="module-5/index.php">Module 5</a></li>
 								</ul>
 							</nav>
 

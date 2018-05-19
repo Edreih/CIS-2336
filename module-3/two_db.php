@@ -1,8 +1,8 @@
 <?php
 
-define('DB_NAME', 'ealdana1_CIS2336');
-define('DB_USER', 'ealdana1_edreih');
-define('DB_PASSWORD', 'speedy13');
+define('DB_NAME', 'dbname');
+define('DB_USER', 'dbuser');
+define('DB_PASSWORD', 'pass');
 define('DB_HOST', 'localhost');
 
 $link = mysql_connect(DB_HOST, DB_USER, DB_PASSWORD);
@@ -63,7 +63,7 @@ $num2=mysql_numrows($result2);
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="/assets/css/main.css" />
+		<link rel="stylesheet" href="/projects/cis2336/assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 	</head>
 	<body class="no-sidebar">

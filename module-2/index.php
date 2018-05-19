@@ -5,7 +5,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="/assets/css/main.css" />
+		<link rel="stylesheet" href="/projects/cis2336/assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
 	</head>
 	<body class="two-sidebar">
@@ -74,14 +74,14 @@
                                             <h2>Assignments</h2>
 										</header>
 										<ul class="default">
-											<li><a href="/module-2/myfirstphp.php" target="_blank">My First PHP Script</a></li>
-                                            <li><a href="/module-2/myfirstform.php" target="_blank">Form (Print)</a></li>
-                                            <li><a href="/module-2/myform2.php" target="_blank">Form (Request)</a></li>
-                                            <li><a href="/module-2/choose-address.php">Change Address Form</a>
+											<li><a href="/projects/cis2336/module-2/myfirstphp.php" target="_blank">My First PHP Script</a></li>
+                                            <li><a href="/projects/cis2336/module-2/myfirstform.php" target="_blank">Form (Print)</a></li>
+                                            <li><a href="/projects/cis2336/module-2/myform2.php" target="_blank">Form (Request)</a></li>
+                                            <li><a href="/projects/cis2336/module-2/choose-address.php">Change Address Form</a>
                                             </li>
-                                            <li><a href="/module-2/calculator.php">Calculator</a>
+                                            <li><a href="/projects/cis2336/module-2/calculator.php">Calculator</a>
                                             </li>
-                                            <li><a href="/module-2/multiply.php">Multiplication</a></li>
+                                            <li><a href="/projects/cis2336/module-2/multiply.php">Multiplication</a></li>
 										</ul>
 									</section>
 

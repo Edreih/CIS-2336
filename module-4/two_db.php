@@ -1,7 +1,7 @@
 <?php
 
-define('DB_NAME', 'ealdana1_CIS2336');
-define('DB_USER', 'ealdana1_edreih');
+define('DB_NAME', 'ealdana_CIS2336');
+define('DB_USER', 'cis2336');
 define('DB_PASSWORD', 'speedy13');
 define('DB_HOST', 'localhost');
 

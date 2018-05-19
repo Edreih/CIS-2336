@@ -5,7 +5,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="/assets/css/main.css" />
+		<link rel="stylesheet" href="/projects/cis2336/assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
 	</head>
 	<body class="two-sidebar">
@@ -76,14 +76,14 @@
                                             <h2>Assignments</h2>
 										</header>
 										<ul class="default">
-											<li><a href="/module-5/codecademy_js.png" target="_blank">Codecademy completion (pic)</a></li>
+											<li><a href="codecademy_js.png" target="_blank">Codecademy completion (pic)</a></li>
                                             <li>
-                                            <li><a href="/module-5/contact.php" target="_blank">Contact Form (send email)</a></li>
+                                            <li><a href="contact.php" target="_blank">Contact Form</a></li>
                                             <li>
-                                            <li><a href="/module-5/hello_world.html" target="_blank">Hello World JS</a></li>
-                                            <li>
-                                            <li><a href="/htdocs/upload_image.php" target="_blank">Upload Image</a></li>
-                                            <li><a href="/htdocs/images.php" target="_blank">See uploaded images</a></li>
+                                            <li><a href="hello_world.html" target="_blank">Hello World JS</a></li>
+                                            <!--<li>
+                                            <li><a href="htdocs/upload_image.php" target="_blank">Upload Image</a></li>
+                                            <li><a href="htdocs/images.php" target="_blank">See uploaded images</a></li>-->
                                             <li>
 										</ul>
 									</section>

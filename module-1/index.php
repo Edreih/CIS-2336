@@ -5,7 +5,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="/assets/css/main.css" />
+		<link rel="stylesheet" href="/projects/cis2336/assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
 	</head>
 	<body class="two-sidebar">
@@ -74,12 +74,12 @@
                                             <h2>Assignments</h2>
 										</header>
 										<ul class="default">
-											<li><a href="/home/" target="_blank">My First Portfolio Page</a></li>
+											<li><a href="/projects/cis2336/home/" target="_blank">My First Portfolio Page</a></li>
                                             <li><a href="https://www.codecademy.com/users/ealdana/achievements" target="_blank">My Codecademy Badges</a></li>
-											<li><a href="/docs/ealdana-file-manager.pdf" target="_blank">cPanel File Manager How-To</a></li>
-                                            <li><a href="/module-1/one-column.html">One Column Site</a></li>
-                                            <li><a href="/module-1/two-column.html">Two Column Site</a></li>
-                                            <li><a href="/module-1/three-column.html">Three Column Site</a></li>
+											<li><a href="/projects/cis2336/docs/ealdana-file-manager.pdf" target="_blank">cPanel File Manager How-To</a></li>
+                                            <li><a href="one-column.html">One Column Site</a></li>
+                                            <li><a href="two-column.html">Two Column Site</a></li>
+                                            <li><a href="three-column.html">Three Column Site</a></li>
 										</ul>
 									</section>
 

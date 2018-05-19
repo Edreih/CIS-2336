@@ -13,9 +13,9 @@
                                     
 									<li><strong style="color: #fff; font-weight: bolder;">Course Links</strong>
 										<ul class="default">
-											<li><a href="www.heyuhnem.com/CIS2336/2336_index.html">Course Website</a></li>
-											<li><a href="/docs/Fofanova_Spring%2017_CIS%202336_Syllabus.pdf">Course Syllabus</a></li>
-											<li><a href="/docs/Fofanova_Spring%2017_CIS%202336_Syllabus.pdf">Course Schedule</a></li>
+											<li><a href="nttp://www.heyuhnem.com/CIS2336/2336_index.html">Course Website</a></li>
+											<li><a href="/projects/cis2336//docs/Fofanova_Spring%2017_CIS%202336_Syllabus.pdf">Course Syllabus</a></li>
+											<li><a href="/projects/cis2336//docs/Fofanova_Spring%2017_CIS%202336_Syllabus.pdf">Course Schedule</a></li>
 										</ul>
 									</li>
 									<li><strong style="color: #fff; font-weight: bolder;">Contact Info</strong>

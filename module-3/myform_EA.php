@@ -1,7 +1,7 @@
 <?php
 
-define('DB_NAME', 'ealdana1_CIS2336');
-define('DB_USER', 'ealdana1_edreih');
+define('DB_NAME', 'ealdana_cis2336');
+define('DB_USER', 'cis2336');
 define('DB_PASSWORD', 'speedy13');
 define('DB_HOST', 'localhost');
 
@@ -26,7 +26,7 @@ $gender = $_POST['gender'];
 $age = $_POST['age'];
 $comments = $_POST['comments'];
 
-$sql = "INSERT INTO data_form1 (name, email, gender, age, comments) VALUES ('$name', '$email', '$gender', '$age', '$comments')";
+$sql = "INSERT INTO data_form_home (name, email, gender, age, comments) VALUES ('$name', '$email', '$gender', '$age', '$comments')";
 
 // check for query errors
 if (!mysql_query($sql)) {
@@ -34,9 +34,11 @@ if (!mysql_query($sql)) {
 }
 
 // gather database/table output
-$query="SELECT * FROM data_form1 ORDER BY id"; // table = data_form1
-$result=mysql_query($query);
-$num=mysql_numrows($result);
+if(mysql_query($sql)) {
+    $query="SELECT * FROM data_form_home ORDER BY id"; 
+    $result=mysql_query($query);
+    $num=mysql_numrows($result);
+}
 
 
 mysql_close();
@@ -50,7 +52,7 @@ mysql_close();
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="/assets/css/main.css" />
+		<link rel="stylesheet" href="/projects/cis2336/assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 	</head>
 	<body class="no-sidebar">
@@ -60,7 +62,7 @@ mysql_close();
 			<!-- Contact -->
 				<div id="contact">
 					<div class="container">
-                    <p class="left"><a href="/module-3/" class="button alt">&larr; Go Back to Module 3 Home</a></p><br />
+                    <p class="left"><a href="/projects/cis2336/module-3/" class="button alt">&larr; Go Back to Module 3 Home</a></p><br />
 						<section>
 							<header>
 								<h2>My Form (with Database support)</h2>

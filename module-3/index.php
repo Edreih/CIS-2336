@@ -5,7 +5,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="/assets/css/main.css" />
+		<link rel="stylesheet" href="/projects/cis2336/assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
 	</head>
 	<body class="two-sidebar">
@@ -65,8 +65,8 @@
                                             <br /></p>
                                         <?php
 
-define('DB_NAME', 'ealdana1_CIS2336');
-define('DB_USER', 'ealdana1_edreih');
+define('DB_NAME', 'ealdana_cis2336');
+define('DB_USER', 'cis2336');
 define('DB_PASSWORD', 'speedy13');
 define('DB_HOST', 'localhost');
 
@@ -149,11 +149,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                                             <h2>Assignments</h2>
 										</header>
 										<ul class="default">
-											<li><a href="/docs/W3Schools_SQL_Quiz_Test.pdf" target="_blank">W3Schools SQL Quiz Results</a></li>
+											<li><a href="/projects/cis2336/docs/W3Schools_SQL_Quiz_Test.pdf" target="_blank">W3Schools SQL Quiz Results</a></li>
                                             <li><a href="ealdana_SELECT.png" target="_blank">SHOW and SELECT SQL</a></li>
                                             <li><a href="ealdana_mytable.png" target="_blank">My Table (Screenshot)</a></li>
                                             <li><a href="myform_EA.php" target="_blank">My Form (with Database)</a></li>
-                                            <li><a href="/docs/SQL_homework.pdf">SQL Homework PDF</a></li>
                                             <!--<li><a href="two_db.php">Forms (Two Databases)</a></li>-->
 										</ul>
 									</section>

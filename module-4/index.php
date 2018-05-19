@@ -5,7 +5,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="/assets/css/main.css" />
+		<link rel="stylesheet" href="/projects/cis2336/assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
 	</head>
 	<body class="two-sidebar">
@@ -75,13 +75,13 @@
                                             <h2>Assignments</h2>
 										</header>
 										<ul class="default">
-											<li><a href="/docs/MySQL_vs_MySQLi.pdf" target="_blank">MySQL vs MySQLi PDF</a>
+											<li><a href="/projects/cis2336/docs/MySQL_vs_MySQLi.pdf" target="_blank">MySQL vs MySQLi PDF</a>
                                             </li>
-											<li><a href="mysqli/index.php" target="_blank">MySQLi Form</a>
-                                            </li>
-											<li><a href="exam3/index.php" target="_blank">Exam 3</a>
-                                            </li>
-                                            <li><a href="two_db.php">Forms (Two Databases)</a></li>
+											<del><li><a href="#" target="_blank">MySQLi Form</a>
+                                            </li></del>
+											<del><li><a href="#" target="_blank">Exam 3</a>
+                                            </li></del>
+                                            <del><li><a href="#">Forms (Two Databases)</a></li></del>
 										</ul>
 									</section>
 
@@ -95,12 +95,12 @@
             <?php include("includes/footer.php"); ?>
 
 		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.dropotron.min.js"></script>
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/util.js"></script>
+			<script src="/projects/cis2336/assets/js/jquery.min.js"></script>
+			<script src="/projects/cis2336/assets/js/jquery.dropotron.min.js"></script>
+			<script src="/projects/cis2336/assets/js/skel.min.js"></script>
+			<script src="/projects/cis2336/assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-			<script src="assets/js/main.js"></script>
+			<script src="/projects/cis2336/assets/js/main.js"></script>
 
 	</body>
 </html>

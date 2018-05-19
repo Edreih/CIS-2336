@@ -41,7 +41,7 @@
                                         <br /><br />
                                         This Spring 2017 semester I am taking CIS 2336 (Internet Application Development) with Professor Natalia Fofanova. This website showcases what I've learned and my top assignments for each class module. Feel free to use the navigation bar at the top of this page. 
                                         <br /><br />
-                                        <a href="/module-1/" class="button alt">Continue to Module 1</a>
+                                        <a href="/projects/cis2336/module-1/" class="button alt">Continue to Module 1</a>
                                         </p>
 									</article>
 								</div>

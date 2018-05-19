@@ -5,7 +5,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="/assets/css/main.css" />
+		<link rel="stylesheet" href="/projects/cis2336/assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 	</head>
 	<body class="no-sidebar">
@@ -17,7 +17,7 @@
             
 				<div id="contact">
 					<div class="container">
-                    <p class="left"><a href="/module-5/" class="button alt">&larr; Go Back to Module 5 Home</a></p>
+                    <p class="left"><a href="/projects/cis2336/module-5/" class="button alt">&larr; Go Back to Module 5 Home</a></p>
 						<section>
 							<header>
 								<h2>Contact Me</h2>

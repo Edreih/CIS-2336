@@ -1,7 +1,7 @@
 <html>
     <head>
     <title>PHP Form</title>
-    <link rel="stylesheet" href="/PHPpractice/ch02/myfirstform.css" />
+    <link rel="stylesheet" href="myfirstform.css" />
     </head>
     <body>
         <form action="handle_by_printing.php" method="post">
