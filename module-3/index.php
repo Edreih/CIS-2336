@@ -65,9 +65,9 @@
                                             <br /></p>
                                         <?php
 
-define('DB_NAME', 'ealdana_cis2336');
-define('DB_USER', 'cis2336');
-define('DB_PASSWORD', 'speedy13');
+define('DB_NAME', 'DB_NAME');
+define('DB_USER', 'DB_USER');
+define('DB_PASSWORD', 'PASSWORD');
 define('DB_HOST', 'localhost');
 
 $link = mysql_connect(DB_HOST, DB_USER, DB_PASSWORD);
